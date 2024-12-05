@@ -41,5 +41,8 @@
   },
   "engines": {
     "node": ">=18.17.0"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^6.0.5"
   }
 }
